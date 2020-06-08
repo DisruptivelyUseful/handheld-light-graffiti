@@ -6,10 +6,10 @@ Please watch this [tutorial video first](http://www.disruptivelyuseful.org/)
 
 Really all you need is:
 
-a fairly powerful LED flashlight
-a lens
-a stencil
-a way to couple it all
+- a fairly powerful LED flashlight
+- a lens
+- a stencil
+- a way to couple it all
 
 What you are doing, essentially, is sending the flashlight beam farther and more sharply with the lens then it can do on it’s own. Then you are adding a message with the stencil. The coupling is all about finding the focus, the spacing between the flashlight and lens. There could be a thousand ways to do this build. We give you specifics on what has worked for us below. 
 
