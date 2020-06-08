@@ -29,7 +29,7 @@ It doesn’t matter so much which brand of flashlight you use, but we learned th
 
 The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting, designed for ABS pipe, which made coupling it to the lens easy. The closest flashlight to what we used that we could find currently available on Amazon is [this one](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79), which appears to be identical but is from a different manufacturer.
 
-**FLASHLIGHT RESOURES:**
+**FLASHLIGHT RESOURCES:**
 
 - [Flashlight from our tutorial](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79)
 
@@ -96,10 +96,10 @@ These kinds of fittings come in a wide range of sizes, and are a good, cheap, wi
 
 - Beautiful Rising on [Guerilla Projection as a protest tactic](https://beautifulrising.org/tool/guerrilla-projection)
 
-[The Illuminator Collective](http://theilluminator.org/) have been light projection activists since 2012 and make tutorials
+- [The Illuminator Collective](http://theilluminator.org/) have been light projection activists since 2012 and make tutorials
 
-[Overpass Light Brigade](https://www.facebook.com/OverpassLightBrigade/)
+- [Overpass Light Brigade](https://www.facebook.com/OverpassLightBrigade/)
 
-You can follow us, the creators, at [The Magic Tool Bus.](http://www.magictoolbus.com/)
+- You can follow us, the creators, at [The Magic Tool Bus.](http://www.magictoolbus.com/). If you know of more resources for this tutorial, please let us know.
 
 
