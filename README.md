@@ -18,6 +18,7 @@ Please watch the video for an overview of how things physically fit together.
 ## Flashlight Tip and Resources:
 
 **FLASHLIGHT TIPS:**
+
 Any light source can work, but LED flashlights are the cheapest, smallest, safest option as they don’t produce a lot of heat that could melt or ignite your stencil.
 
 In this build, we used an “UltraFire C8 1000 lumen ‘tactical’ flashlight”, which we got on Amazon a few years ago for around $20. The brighter the better, but a 1000 lumen rated flashlight with a fresh battery can throw a remarkably large and clear image in reasonable darkness. 
@@ -29,6 +30,7 @@ It doesn’t matter so much which brand of flashlight you use, but we learned th
 The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting, designed for ABS pipe, which made coupling it to the lens easy. The closest flashlight to what we used that we could find currently available on Amazon is [this one](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79), which appears to be identical but is from a different manufacturer.
 
 **FLASHLIGHT RESOURES:**
+
 - [Flashlight from our tutorial](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79)
 
 - If you have the funds, you can buy a [professional gobo projector](https://www.google.com/search?q=gobo+projector&rlz=1C5CHFA_enUS839US839&sxsrf=ALeKk02kNfq3QnQ5u8XuZQiBq0yiBY5QMg:1591572177599&source=lnms&tbm=shop&sa=X&ved=2ahUKEwiPuJ6y7PDpAhUCvZ4KHeW4CuEQ_AUoAXoECAsQAw&biw=1280&bih=596)
@@ -37,6 +39,7 @@ The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting
 ## Stencil Tips and Resources:
 
 **STENCIL TIPS:**
+
 This style of projection is called “gobo” projection. “Gobo” stands for “Goes before optics” because putting a stencil between a light and a lens projects a crisp, focused image. A stencil used for projection like this is sometimes referred to as [“a gobo”.](https://en.wikipedia.org/wiki/Gobo_(lighting))
 
 You’ll need to be able to make stencils to throw your own images. We used laser cut 1/16th” black acrylic, cut with a [Glowforge](https://glowforge.com/) basic 40W laser cutter, which worked well. If you don’t have access to a laser cutter you can make your own stencils using different materials, like thin plastic, stiff card stock, or even a tin can and an exacto knife.
@@ -59,6 +62,7 @@ You can also make transparent stencils with a laser or inkjet printer or a sharp
 ## Lens Tips and Resources:
 
 **LENS TIPS:**
+
 Nearly any lens of any kind will work, but some will work better than others. All lenses have a focal length- the distance from the lens where the image comes into focus. We used a lens from an old big screen TV, because we had a few lying around. They work well, and 3 of them can be found inside any old boxy projection-style TV. (If you are unsure if a TV is the right kind, try gently poking the screen. Is it large, plastic, textured, and a little floppy in the middle? If so, you’re in luck!)
 
 If you take off the screen, it should look something like this. (IMAGE NEEDED) Also note that the Fresnel lens and first surface mirror in big screen TVs can be used to make solar concentrators and other fun optical projects, but that's for a different tutorial. 
@@ -70,12 +74,14 @@ The now-defunct [GuerillaBeam project](https://streettoolbox.fandom.com/wiki/Gue
 **SAFETY TIP**: To be safe, NEVER LEAVE A BIG SCREEN TV LENS OUT IN THE SUN, it can act as a giant magnifying glass and light things on fire when the sun hits it.
 
 **LENS RESOURCES:**
+
 - Ask around for old TV lenses and camera lenses
 - Check thrift shops and re-stores.
 
 ## Coupler Tips and Resources:
 
 **COUPLER TIPS:**
+
 The coupler can be anything that securely holds the flashlight to the lens, and allows you to make small adjustments to the focus. We used a 1.5”x4” rubber FERNCO ABS pipe plumbing fitting, which happened to fit our lens on one end and flashlight on the other, and these should be available at any large hardware store. 
 
 These kinds of fittings come in a wide range of sizes, and are a good, cheap, widely available option for connecting things together. Source your flashlight and lens first, and then find your coupler to match them. The distance between the lens and the stencil is more important than the distance between the light source and the stencil. Find the focal length by simply holding your lens in front of your stencil/flashlight and then source your coupler accordingly.
