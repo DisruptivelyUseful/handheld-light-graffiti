@@ -2,7 +2,7 @@
 
 Hi, we are based in Portland, OR and we are here to help you build a handheld light projector from relatively accessible hardware store parts.
 
-Please watch this [tutorial video first]()
+Please watch this [tutorial video first](http://www.disruptivelyuseful.org/)
 
 Really all you need is:
 
