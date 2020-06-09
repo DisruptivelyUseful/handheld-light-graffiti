@@ -1,3 +1,5 @@
+**Notes about this repository**: We will be uploading lasercutting .svg files for stencils here, and hopefully more information as it comes up. This project is intended to be fully open source. 
+
 # Handheld Light Graffiti Projector Tutorial
 
 Hi, we are based in Portland, OR and we are here to help you build a handheld light projector from relatively accessible hardware store parts.
