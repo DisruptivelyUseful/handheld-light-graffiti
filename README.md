@@ -10,7 +10,7 @@ Really all you need is:
 
 - [a fairly powerful LED flashlight](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79)
 - [a lens](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=projection+television+lens&_sacat=0)
-- a stencil
+- [a stencil](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files)
 - [a way to couple it all](https://www.amazon.com/Fernco-P1056-415-Flexible-Coupling-4-Inch/dp/B000I1AVCS/ref=sr_1_29?crid=25XW03K529JES&dchild=1&keywords=fernco+coupling+1+1%2F2&qid=1591568700&sprefix=fernco%2Caps%2C223&sr=8-29)
 
 What you are doing, essentially, is sending the flashlight beam farther and more sharply with the lens then it can do on it’s own. Then you are adding a message with the stencil. The coupling is all about finding the focus, the spacing between the flashlight and lens. There could be a thousand ways to do this build. We give you specifics on what has worked for us below. 
@@ -48,12 +48,13 @@ You’ll need to be able to make stencils to throw your own images. We used lase
 
 Cut out stencils work best for larger words and simple phrases. For smaller/more text, we found that laser engraving an image onto CLEAR acrylic and then spray painting the engraved area black before peeling off the protective paper worked surprisingly well, actually. It may be worth playing around with that approach if you DO have access to a laser cutter.
 
-You can also make transparent stencils with a laser or inkjet printer or a sharpie. You could also 3D print a stencil, or even just paint an image onto the protective lens that comes with the flashlight. Get creative! and let us know what works well for you!
+You can also make transparent stencils with a laser/inkjet printer or a sharpie and some transparency sheets. You could also 3D print a stencil, or even just paint an image onto the protective lens that comes with the flashlight. Get creative! and let us know what works well for you!
 
 **SAFETY TIP**: Test your stencil out before-hand and make sure it isn’t getting too hot!
 
 **STENCIL RESOURCES**
 
+- [We have added .svg files to this repo for lasercutting](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files)
 - If you do not own a lasercutter you can ask your local makerspace to help
 - You can also use a custom online lasercutting service like [Ponoko.](https://www.ponoko.com/)
 - Here’s a tutorial on a [low-tech DIY metal gobo](https://www.instructables.com/id/Home-made-Gobos/) from a tin can/pie plate
