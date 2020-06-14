@@ -13,7 +13,9 @@ Really all you need is:
 - [a stencil](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files)
 - [a way to couple it all](https://www.amazon.com/Fernco-P1056-415-Flexible-Coupling-4-Inch/dp/B000I1AVCS/ref=sr_1_29?crid=25XW03K529JES&dchild=1&keywords=fernco+coupling+1+1%2F2&qid=1591568700&sprefix=fernco%2Caps%2C223&sr=8-29)
 
-What you are doing, essentially, is sending the flashlight beam farther and more sharply with the lens then it can do on it’s own. Then you are adding a message with the stencil. The coupling is all about finding the focus, the spacing between the flashlight and lens. There could be a thousand ways to do this build. We give you specifics on what has worked for us below. 
+The items linked here are the ones we used in the tutorial video, if you want to make that exact build. 
+
+What you are doing in this project, essentially, is sending a flashlight beam farther and more sharply with a lens then it can do on it’s own. Then you are adding a message with the stencil. The coupling is all about finding the focus, the spacing between the flashlight and lens. There could be a thousand ways to do this build and we try to talk about that in this tutorial. We also give you specifics on what has specifically worked for us both in the linked list above, the video, and in the information below. 
 
 Please watch the video for an overview of how things physically fit together.
 
