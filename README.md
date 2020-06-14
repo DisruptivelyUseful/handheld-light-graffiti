@@ -8,10 +8,10 @@ Please watch this [tutorial video first](http://www.disruptivelyuseful.org/)
 
 Really all you need is:
 
-- a fairly powerful LED flashlight
-- a lens
+- [a fairly powerful LED flashlight](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79)
+- [a lens](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=projection+television+lens&_sacat=0)
 - a stencil
-- a way to couple it all
+- [a way to couple it all](https://www.amazon.com/Fernco-P1056-415-Flexible-Coupling-4-Inch/dp/B000I1AVCS/ref=sr_1_29?crid=25XW03K529JES&dchild=1&keywords=fernco+coupling+1+1%2F2&qid=1591568700&sprefix=fernco%2Caps%2C223&sr=8-29)
 
 What you are doing, essentially, is sending the flashlight beam farther and more sharply with the lens then it can do on it’s own. Then you are adding a message with the stencil. The coupling is all about finding the focus, the spacing between the flashlight and lens. There could be a thousand ways to do this build. We give you specifics on what has worked for us below. 
 
@@ -77,6 +77,7 @@ The now-defunct [GuerillaBeam project](https://streettoolbox.fandom.com/wiki/Gue
 
 **LENS RESOURCES:**
 
+- Search for "projection television lens" on [Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=projection+television+lens&_sacat=0) to find a similar lens to the one we used in this tutorial for around $10.
 - Ask around for old TV lenses and camera lenses
 - Check thrift shops and re-stores.
 
