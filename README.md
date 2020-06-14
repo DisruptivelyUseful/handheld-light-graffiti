@@ -25,11 +25,11 @@ Please watch the video for an overview of how things physically fit together.
 
 Any light source can work, but LED flashlights are the cheapest, smallest, safest option as they don’t produce a lot of heat that could melt or ignite your stencil.
 
-In this build, we used an “UltraFire C8 1000 lumen ‘tactical’ flashlight”, which we got on Amazon a few years ago for around $20. The brighter the better, but a 1000 lumen rated flashlight with a fresh battery can throw a remarkably large and clear image in reasonable darkness. 
+In this build, we used an “UltraFire C8 1000 lumen ‘tactical’ flashlight”, which we got on Amazon a few years ago for around $20. The brighter the better, but a 1000 lumen rated flashlight with a fresh battery can throw a remarkably large and clear image in reasonable darkness. We have found essentially the same flashlight from a different supplier since then, and link to it at the bottom of this section.
 
 Speaking of batteries, the flashlights that use rechargeable lithium “18650” style batteries are a great option, because 6-8 useable 18650 cells can be recovered from old laptop batteries, and a single 18650 can power one of these flashlights for 4-7 hours. It’s ok if it uses regular batteries too.
 
-It doesn’t matter so much which brand of flashlight you use, but we learned the hard way that some LED flashlights use a parabolic reflector to focus the light, and some use a plastic lens. Both work fine for use as a flashlight, but for use as a projector, the ones with parabolic reflectors work WAY better, because they hold the stencil much further away from the hot LED, and because they don’t complicate the optics. The ones with reflectors look like this:
+It doesn’t matter so much which brand of flashlight you use, but we learned the hard way that some LED flashlights use a parabolic reflector to focus the light, and some use a plastic lens. Both work fine for use as a flashlight, but for use as a projector. The ones with parabolic reflectors work WAY better, because they hold the stencil much further away from the hot LED, and because they don’t complicate the optics. The ones with reflectors look like this:
 
 The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting, designed for ABS pipe, which made coupling it to the lens easy. The closest flashlight to what we used that we could find currently available on Amazon is [this one](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79), which appears to be identical but is from a different manufacturer.
 
