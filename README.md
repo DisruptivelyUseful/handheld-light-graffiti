@@ -72,7 +72,22 @@ You can also make transparent stencils with a laser/inkjet printer or a sharpie 
 
 Nearly any lens of any kind will work, but some will work (much) better than others. All lenses have a focal length- the distance from the lens where the image comes into focus. We used a lens from an old big screen TV, because we had a few lying around. They work well, and 3 of them can be found inside any old boxy projection-style TV. (If you are unsure if a TV is the right kind, try gently poking the screen. Is it large, plastic, textured, and a little floppy in the middle? If so, you’re in luck!) Also note that the Fresnel lens and first surface mirror in big screen TVs can be used to make solar concentrators and other fun optical projects, but that's for a different tutorial.  
 
-Not everyone wants to rip apart a big screen TV, however, so we have did some research and found that you can buy this style of lens on ebay for $5-$20. You want to search for "projection television lens", and look for a lens that looks like this: 
+If you take off the screen, it should look something like this:
+
+{IMAGES}
+
+Not everyone wants to rip apart a big screen TV, however, so we have did some research and found that you can buy this style of lens on ebay for $5-$20. You want to search for "projection television lens", and look for a lens that looks like this:
+
+{IMAGE}
+
+Each lens comes in two parts: the lens assembly, and a plastic housing that slides along two screws, allowing for fine adjustment of focus. For our purposes, we won’t need the outer housing. Just unscrew the two screw posts and pull the lens away from the housing, like this:
+
+{IMAGE}
+{GIF}
+
+The lens assembly has a stepped shape that makes it easy to find a step with the right diameter to couple to a plumbing fitting. We found that the second step on ours was almost exactly 4″, and fit a 4″ fernco coupling.
+
+## CAMERA LENSES:
 
 In our understanding other optics work we well, though we have not played with other lenses much so far. Old 35 mm camera lenses can usually be found at thrift stores for $5-15, and they have very high quality optics, and many of the bigger telephoto-style ones will let you make very fine adjustments to the focus and size/throw of your image.
 
