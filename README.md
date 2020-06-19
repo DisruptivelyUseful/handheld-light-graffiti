@@ -74,8 +74,6 @@ Nearly any lens of any kind will work, but some will work (much) better than oth
 
 Not everyone wants to rip apart a big screen TV, however, so we have did some research and found that you can buy this style of lens on ebay for $5-$20. You want to search for "projection television lens", and look for a lens that looks like this: 
 
-{INSERT LENS IMAGES}
-
 In our understanding other optics work we well, though we have not played with other lenses much so far. Old 35 mm camera lenses can usually be found at thrift stores for $5-15, and they have very high quality optics, and many of the bigger telephoto-style ones will let you make very fine adjustments to the focus and size/throw of your image.
 
 The now-defunct [GuerillaBeam project](https://streettoolbox.fandom.com/wiki/Guerilla_Beam) used a 3D printed slide holder to couple 35MM camera lenses to LED flashlights, which is how we know they work. If you use a camera lens, you’ll have to play around with the spacing between the light, stencil, and lens to find the sweet spot, and then design your coupler accordingly.
