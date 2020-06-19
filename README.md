@@ -76,7 +76,7 @@ If you take off the screen, it should look something like this:
 
 {IMAGES}
 
-Not everyone wants to rip apart a big screen TV, however, so we have did some research and found that you can buy this style of lens on ebay for $5-$20. You want to search for "projection television lens", and look for a lens that looks like this:
+Not everyone wants to rip apart a big screen TV, however, so we did some research and found that you can buy this style of lens on ebay for $5-$20. You want to search for "projection television lens", and look for a lens that looks like this:
 
 {IMAGE}
 
