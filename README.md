@@ -87,7 +87,7 @@ Each lens comes in two parts: the lens assembly, and a plastic housing that slid
 
 The lens assembly has a stepped shape that makes it easy to find a step with the right diameter to couple to a plumbing fitting. We found that the second step on ours was almost exactly 4″, and fit a 4″ fernco coupling.
 
-## CAMERA LENSES:
+### CAMERA LENSES:
 
 In our understanding other optics work we well, though we have not played with other lenses much so far. Old 35 mm camera lenses can usually be found at thrift stores for $5-15, and they have very high quality optics, and many of the bigger telephoto-style ones will let you make very fine adjustments to the focus and size/throw of your image.
 
