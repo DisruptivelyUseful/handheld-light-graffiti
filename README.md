@@ -2,7 +2,9 @@
 
 # Handheld Light Graffiti Projector Tutorial
 
-Hi, we are based in Portland, OR and we are here to help you build a handheld light projector from relatively accessible hardware store parts.
+Hi, we are based in Portland, OR and we are here to help you build a handheld light projector from relatively accessible hardware store parts. 
+
+PLEASE NOTE: We have worked hard to give details for the specific build we know works, but hope that people will also try to design similar, not exact copies. This is because A) The exact parts needed for this build may be difficult to source in the future, though similar parts should always be available and B) Alternate builds could quite possibly have advatages of their own, such as lowering cost or improving projection throw. 
 
 Please watch this [tutorial video first](http://www.disruptivelyuseful.org/)
 
@@ -68,11 +70,13 @@ You can also make transparent stencils with a laser/inkjet printer or a sharpie 
 
 **LENS TIPS:**
 
-Nearly any lens of any kind will work, but some will work better than others. All lenses have a focal length- the distance from the lens where the image comes into focus. We used a lens from an old big screen TV, because we had a few lying around. They work well, and 3 of them can be found inside any old boxy projection-style TV. (If you are unsure if a TV is the right kind, try gently poking the screen. Is it large, plastic, textured, and a little floppy in the middle? If so, you’re in luck!)
+Nearly any lens of any kind will work, but some will work (much) better than others. All lenses have a focal length- the distance from the lens where the image comes into focus. We used a lens from an old big screen TV, because we had a few lying around. They work well, and 3 of them can be found inside any old boxy projection-style TV. (If you are unsure if a TV is the right kind, try gently poking the screen. Is it large, plastic, textured, and a little floppy in the middle? If so, you’re in luck!) Also note that the Fresnel lens and first surface mirror in big screen TVs can be used to make solar concentrators and other fun optical projects, but that's for a different tutorial.  
 
-If you take off the screen, it should look something like this. (IMAGE NEEDED) Also note that the Fresnel lens and first surface mirror in big screen TVs can be used to make solar concentrators and other fun optical projects, but that's for a different tutorial. 
+Not everyone wants to rip apart a big screen TV, however, so we have did some research and found that you can buy this style of lens on ebay for $5-$20. You want to search for "projection television lens", and look for a lens that looks like this: 
 
-Not everyone wants to rip apart a big screen TV, however, and other optics work. Old 35 mm camera lenses can usually be found at thrift stores for $5-15, and they have very high quality optics, and many of the bigger telephoto-style ones will let you make very fine adjustments to the focus and size/throw of your image.
+{INSERT LENS IMAGES}
+
+In our understanding other optics work we well, though we have not played with other lenses much so far. Old 35 mm camera lenses can usually be found at thrift stores for $5-15, and they have very high quality optics, and many of the bigger telephoto-style ones will let you make very fine adjustments to the focus and size/throw of your image.
 
 The now-defunct [GuerillaBeam project](https://streettoolbox.fandom.com/wiki/Guerilla_Beam) used a 3D printed slide holder to couple 35MM camera lenses to LED flashlights, which is how we know they work. If you use a camera lens, you’ll have to play around with the spacing between the light, stencil, and lens to find the sweet spot, and then design your coupler accordingly.
 
