@@ -98,6 +98,8 @@ Not everyone wants to rip apart a big screen TV, however, so we did some researc
 
 Each lens comes in two parts: the lens assembly, and a plastic housing that slides along two screws, allowing for fine adjustment of focus. For our purposes, we won’t need the outer housing. Just unscrew the two screw posts and pull the lens away from the housing, like this:
 
+![](images/lenscase.gif)
+
 ![](images/lensapart.jpg)
 
 The lens assembly has a stepped shape that makes it easy to find a step with the right diameter to couple to a plumbing fitting. We found that the second step on ours was almost exactly 4″, and fit a 4" FERNCO ABS pipe plumbing fitting*.
