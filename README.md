@@ -1,27 +1,31 @@
 ![](images/courthouse2.jpg)
 
-**Notes about this repository**: We have provided lasercutting .svg files for stencils here, will soon be adding a BOM for the specific build we made, and will be adding info as we gather it. This project is intended to be fully open source, meaning you can use, fork, make and sell with no need to credit us. 
+**Notes about this repository**: We have provided .svg files for laser cutting stencils here in the correct size for the flashlight that we link to and used in the build in the tutorial video. You may need to resize the stencil for your flashlight if it is a different size. 
 
 # Handheld Light Graffiti Projector Tutorial
 
-Hi, we are based in Portland, OR and we are here to help you build a handheld light projector from relatively accessible hardware store parts. 
+Hi, we are based in Portland, OR and we are here to help you build a handheld light projector from relatively accessible hardware store parts. If you scroll down this page a bit you will find TONS of additional detail on how to build this projector.
 
-PLEASE NOTE: We have worked hard to give details for the specific build we know works, but hope that people will also try to design similar, not exact copies. This is because A) The exact parts needed for this build may be difficult to source in the future, though similar parts should always be available and B) Alternate builds could quite possibly have advatages of their own, such as lowering cost or improving projection throw. 
+PLEASE NOTE: We have worked hard to give details for the specific build we know works, but hope that people will also try to design similar, not exact copies. This is because A) The exact parts needed for this build may be difficult to source in the future, though similar parts should always be available and B) Alternate builds could quite possibly have advantages of their own, such as lowering cost or improving projection throw.
+
+This project is also completely open source, meaning that you can make, share, use, alter, and yes, even sell this design or any similar design, with no credit or attribution needed. This information is yours. 
 
 Please watch this [tutorial video first](http://www.disruptivelyuseful.org/)
 
 Really all you need is:
 
 - [a fairly powerful LED flashlight](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79)
-- [a lens](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=projection+television+lens&_sacat=0)
-- [a stencil](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files)
+- [a lens*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=projection+television+lens&_sacat=0)
+- [a stencil*](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files)
 - [a way to couple it all](https://www.amazon.com/Fernco-P1056-415-Flexible-Coupling-4-Inch/dp/B000I1AVCS/ref=sr_1_29?crid=25XW03K529JES&dchild=1&keywords=fernco+coupling+1+1%2F2&qid=1591568700&sprefix=fernco%2Caps%2C223&sr=8-29)
 
-The items linked here are the ones we used in the tutorial video, if you want to make that exact build. 
+The items linked here are the ones we used in the tutorial video, if you want to make that exact build.*
 
-What you are doing in this project, essentially, is sending a flashlight beam farther and more sharply with a lens then it can do on it’s own. Then you are adding a message with the stencil. The coupling is all about finding the focus, the spacing between the flashlight and lens. There could be a thousand ways to do this build and we try to talk about that in this tutorial. We also give you specifics on what has specifically worked for us both in the linked list above, the video, and in the information below. 
+*Important details on the lens and stencil are available slightly down this page, in their sections.
 
-Please watch the video for an overview of how things physically fit together.
+What you are doing in this project, essentially, is sending a flashlight beam farther and more sharply with a lens then it can do on it’s own. Then you are adding a message with the stencil. The coupling is all about finding the focus, the spacing between the flashlight and lens. There could be a thousand ways to do this build and we try to talk about that in this tutorial. We also give you specifics on what has worked for us both in the linked list above, the video, and in the information below.
+
+Please watch the video for an overview of how things fit together.
 
 ## Flashlight Tip and Resources:
 
@@ -87,7 +91,9 @@ Each lens comes in two parts: the lens assembly, and a plastic housing that slid
 {IMAGE}
 {GIF}
 
-The lens assembly has a stepped shape that makes it easy to find a step with the right diameter to couple to a plumbing fitting. We found that the second step on ours was almost exactly 4″, and fit a 4″ fernco coupling.
+The lens assembly has a stepped shape that makes it easy to find a step with the right diameter to couple to a plumbing fitting. We found that the second step on ours was almost exactly 4″, and fit a 4" FERNCO ABS pipe plumbing fitting*.
+
+*Check out the coupler section below for details.
 
 ### CAMERA LENSES:
 
@@ -111,11 +117,21 @@ The coupler can be anything that securely holds the flashlight to the lens, and 
 
 These kinds of fittings come in a wide range of sizes, and are a good, cheap, widely available option for connecting things together. Source your flashlight and lens first, and then find your coupler to match them. The distance between the lens and the stencil is more important than the distance between the light source and the stencil. Find the focal length by simply holding your lens in front of your stencil/flashlight and then source your coupler accordingly.
 
+Since the coupling is all about attaching the flashlight to the lens with the correct distance between them to focus, we think a number of other things could work for this, though we haven't personally tried.
+
+**GuerrillaBeam Coupling**
+
+The now-defunct [GuerillaBeam project](https://streettoolbox.fandom.com/wiki/Guerilla_Beam) is a 3D printed slide holder AKA a coupling meant for a flashlight on one end and a 35mm camera lens on the other end. A number of adaptations have been make and a lot of these 3D printing files can be found when you search "guerillabeam" on [Thingiverse](https://www.thingiverse.com/search?q=guerillabeam&type=things&sort=relevant). 
+
+**Crafty Coupling**
+
+We are pretty sure you could use materials such as cardboard, tape, hot glue, foam, toilet paper tubes, pool noodles etc to figure out a coupling for your flashlight and lens if you want to get creative with cheap supplies.
+
 **COUPLER RESOURCES:**
 
 - [1.5x4” FERNCO coupler](https://www.amazon.com/Fernco-P1056-415-Flexible-Coupling-4-Inch/dp/B000I1AVCS/ref=sr_1_29?crid=25XW03K529JES&dchild=1&keywords=fernco+coupling+1+1%2F2&qid=1591568700&sprefix=fernco%2Caps%2C223&sr=8-29)
-- This part could be low-tech, like some stiff cardboard and tape
-- Or high tech, like a [3D printed part](https://www.thingiverse.com/search?q=stencil&type=things&sort=relevant)
+- This part could be crafty, like some stiff cardboard and tape
+- Or it could be a [3D printed part](https://www.thingiverse.com/search?q=stencil&type=things&sort=relevant) custom fitted to your flashlight and lens
 
 ## OTHER NEAT RESOURCES:
 
@@ -127,4 +143,5 @@ These kinds of fittings come in a wide range of sizes, and are a good, cheap, wi
 
 - You can follow us, the creators, at [The Magic Tool Bus.](http://www.magictoolbus.com/). If you know of more resources for this tutorial, please let us know.
 
-
+### “This technology is very powerful, “spectacular” in nature, and often under the control of one person or a small group who could potentially manipulate a large and impressionable crowd. This power needs to be kept accountable to the broader group, and should be wielded with great care.” 
+### – [Beautiful Rising on Guerrilla Projection](https://beautifulrising.org/tool/guerrilla-projection)
