@@ -154,3 +154,5 @@ We are pretty sure you could use materials such as cardboard, tape, hot glue, fo
 
 ### “This technology is very powerful, “spectacular” in nature, and often under the control of one person or a small group who could potentially manipulate a large and impressionable crowd. This power needs to be kept accountable to the broader group, and should be wielded with great care.” 
 ### – [Beautiful Rising on Guerrilla Projection](https://beautifulrising.org/tool/guerrilla-projection)
+
+![](images/justicecenter.jpg)
