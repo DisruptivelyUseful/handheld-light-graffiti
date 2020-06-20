@@ -37,7 +37,15 @@ In this build, we used an “UltraFire C8 1000 lumen ‘tactical’ flashlight�
 
 Speaking of batteries, the flashlights that use rechargeable lithium “18650” style batteries are a great option, because 6-8 useable 18650 cells can be recovered from old laptop batteries, and a single 18650 can power one of these flashlights for 4-7 hours. It’s ok if it uses regular batteries too.
 
-It doesn’t matter so much which brand of flashlight you use, but we learned the hard way that some LED flashlights use a parabolic reflector to focus the light, and some use a plastic lens. Both work fine for use as a flashlight, but for use as a projector. The ones with parabolic reflectors work WAY better, because they hold the stencil much further away from the hot LED, and because they don’t complicate the optics. The ones with reflectors look like this:
+It doesn’t matter so much which brand of flashlight you use, but we learned the hard way that some LED flashlights use a parabolic reflector to focus the light, and some use a plastic lens. Both work fine for use as a flashlight, but for use as a projector. The ones with parabolic reflectors work WAY better, because they hold the stencil much further away from the hot LED, and because they don’t complicate the optics. 
+
+The ones with reflectors look like this:
+
+![](images/reflector.jpg)
+
+Not this:
+
+![](images/plasticlens.jpg)
 
 The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting, designed for ABS pipe, which made coupling it to the lens easy. The closest flashlight to what we used that we could find currently available on Amazon is [this one](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79), which appears to be identical but is from a different manufacturer.
 
@@ -82,16 +90,15 @@ Nearly any lens of any kind will work, but some will work (much) better than oth
 
 If you take off the screen, it should look something like this:
 
-{IMAGES}
+![](images/tvlenses.jpg)
 
 Not everyone wants to rip apart a big screen TV, however, so we did some research and found that you can buy this style of lens on ebay for $5-$20. You want to search for "projection television lens", and look for a lens that looks like this:
 
-{IMAGE}
+![](images/projectorlenses.jpg)
 
 Each lens comes in two parts: the lens assembly, and a plastic housing that slides along two screws, allowing for fine adjustment of focus. For our purposes, we won’t need the outer housing. Just unscrew the two screw posts and pull the lens away from the housing, like this:
 
-{IMAGE}
-{GIF}
+![](images/lensapart.jpg)
 
 The lens assembly has a stepped shape that makes it easy to find a step with the right diameter to couple to a plumbing fitting. We found that the second step on ours was almost exactly 4″, and fit a 4" FERNCO ABS pipe plumbing fitting*.
 
