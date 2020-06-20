@@ -1,5 +1,4 @@
-❮img src="images/courthouse2.jpg" width="100" ❯
-
+![](images/courthouse2.jpg)
 
 **Notes about this repository**: We have provided lasercutting .svg files for stencils here, will soon be adding a BOM for the specific build we made, and will be adding info as we gather it. This project is intended to be fully open source, meaning you can use, fork, make and sell with no need to credit us. 
 
