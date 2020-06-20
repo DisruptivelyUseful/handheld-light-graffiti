@@ -54,7 +54,9 @@ The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting
 
 This style of projection is called “gobo” projection. “Gobo” stands for “Goes before optics” because putting a stencil between a light and a lens projects a crisp, focused image. A stencil used for projection like this is sometimes referred to as [“a gobo”.](https://en.wikipedia.org/wiki/Gobo_(lighting))
 
-You’ll need to be able to make stencils to throw your own images. We used laser cut 1/16th” black acrylic, cut with a [Glowforge](https://glowforge.com/) basic 40W laser cutter, which worked well. If you don’t have access to a laser cutter you can make your own stencils using different materials, like thin plastic, stiff card stock, or even a tin can and an exacto knife.
+You’ll need to be able to make stencils to throw your own images. We used laser cut 1/16th” black acrylic, cut with a [Glowforge](https://glowforge.com/) basic 40W laser cutter, which worked well. We made a round stencil at 1.61" diameter because that is what fits inside the head of the flashlight we use. We have provided these .svg files [in this repo](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files) for you to use if you want to. If you don't have a laser cutter you could ask your local makerspace, or use an online lasercutting service like [Ponoko.](https://www.ponoko.com/)
+
+If you don’t have access to a laser cutter you can make your own stencils using different materials, like thin plastic, stiff card stock, or even a tin can and an exacto knife.
 
 Cut out stencils work best for larger words and simple phrases. For smaller/more text, we found that laser engraving an image onto CLEAR acrylic and then spray painting the engraved area black before peeling off the protective paper worked surprisingly well, actually. It may be worth playing around with that approach if you DO have access to a laser cutter.
 
