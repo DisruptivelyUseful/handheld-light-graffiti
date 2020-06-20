@@ -1,3 +1,7 @@
+# Handheld Light Graffiti Projector Tutorial
+
+![](images/projectorbody.jpeg)
+
 ![](images/justicecenter2.jpeg)
 
 **Notes about this repository**: We have provided .svg files for laser cutting stencils here in the correct size for the flashlight that we link to and used in the build in the tutorial video. You may need to resize the stencil for your flashlight if it is a different size. 
@@ -97,6 +101,8 @@ Not everyone wants to rip apart a big screen TV, however, so we did some researc
 ![](images/projectorlenses.jpg)
 
 Each lens comes in two parts: the lens assembly, and a plastic housing that slides along two screws, allowing for fine adjustment of focus. For our purposes, we won’t need the outer housing. Just unscrew the two screw posts and pull the lens away from the housing, like this:
+
+![](images/lenscase.gif)
 
 ![](images/lensapart.jpg)
 
