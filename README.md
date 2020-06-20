@@ -1,4 +1,4 @@
-![](images/courthouse.jpg)
+![](images/justicecenter2.jpeg)
 
 **Notes about this repository**: We have provided .svg files for laser cutting stencils here in the correct size for the flashlight that we link to and used in the build in the tutorial video. You may need to resize the stencil for your flashlight if it is a different size. 
 
