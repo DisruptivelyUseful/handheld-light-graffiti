@@ -18,7 +18,7 @@ Please watch this [tutorial video first](http://www.disruptivelyuseful.org/)
 
 Really all you need is:
 
-- [a fairly powerful LED flashlight](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79)
+- [a fairly powerful LED flashlight](https://www.amazon.com/HEHEMM-Flashlight-Basement-Activities-flashlight/dp/B01LYNAAZP) (if that is out of stock please use [this](https://www.amazon.com/HEHEMM-Super-bright-Lumens-Flashlight-Controlled/dp/B01LX7WXYX/ref=psdc_2445457011_t4_B01LYNAAZP) or [this](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79). We will try hard to update with what works regularly.)
 - [a lens*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=projection+television+lens&_sacat=0)
 - [a stencil*](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files)
 - [a way to couple it all](https://www.amazon.com/Fernco-P1056-415-Flexible-Coupling-4-Inch/dp/B000I1AVCS/ref=sr_1_29?crid=25XW03K529JES&dchild=1&keywords=fernco+coupling+1+1%2F2&qid=1591568700&sprefix=fernco%2Caps%2C223&sr=8-29)
@@ -55,7 +55,7 @@ The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting
 
 **FLASHLIGHT RESOURCES:**
 
-- [Flashlight from our tutorial](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79)
+- [Flashlight from the video](https://www.amazon.com/HEHEMM-Flashlight-Basement-Activities-flashlight/dp/B01LYNAAZP) (if that is out of stock please use [this](https://www.amazon.com/HEHEMM-Super-bright-Lumens-Flashlight-Controlled/dp/B01LX7WXYX/ref=psdc_2445457011_t4_B01LYNAAZP) or [this](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79). We will try hard to update with what works regularly.)
 
 - If you have the funds, you can buy a [professional gobo projector](https://www.google.com/search?q=gobo+projector&rlz=1C5CHFA_enUS839US839&sxsrf=ALeKk02kNfq3QnQ5u8XuZQiBq0yiBY5QMg:1591572177599&source=lnms&tbm=shop&sa=X&ved=2ahUKEwiPuJ6y7PDpAhUCvZ4KHeW4CuEQ_AUoAXoECAsQAw&biw=1280&bih=596)
 
