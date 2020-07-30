@@ -10,6 +10,8 @@
 
 Hi, we are based in Portland, OR and we are here to help you build a handheld light projector from relatively accessible hardware store parts. If you scroll down this page a bit you will find TONS of additional detail on how to build this projector.
 
+If you follow our suggestions of what to buy and use the links we provide here, this should cost around $45-50 in materials, (cheaper if you find used parts on your own).
+
 PLEASE NOTE: We have worked hard to give details for the specific build we know works, but hope that people will also try to design similar, not exact copies. This is because A) The exact parts needed for this build may be difficult to source in the future, though similar parts should always be available and B) Alternate builds could quite possibly have advantages of their own, such as lowering cost or improving projection throw.
 
 This project is also completely open source, meaning that you can make, share, use, alter, and yes, even sell this design or any similar design, with no credit or attribution needed. This information is yours. 
@@ -72,6 +74,8 @@ You’ll need to be able to make stencils to throw your own images. We used lase
 
 If you don’t have access to a laser cutter you can make your own stencils using different materials, like thin plastic, stiff card stock, or even a tin can and an exacto knife.
 
+We are also offering (at this time) to lasercut an acrylic stencil, for free, for anyone who is trying to make their own projector. We know it can be difficult to get this part done, and we would like to help you. Please email us at DisruptivelyUseful@gmail.com
+
 Cut out stencils work best for larger words and simple phrases. For smaller/more text, we found that laser engraving an image onto CLEAR acrylic and then spray painting the engraved area black before peeling off the protective paper worked surprisingly well, actually. It may be worth playing around with that approach if you DO have access to a laser cutter.
 
 You can also make transparent stencils with a laser/inkjet printer or a sharpie and some transparency sheets. You could also 3D print a stencil, or even just paint an image onto the protective lens that comes with the flashlight. Get creative! and let us know what works well for you!
@@ -80,6 +84,7 @@ You can also make transparent stencils with a laser/inkjet printer or a sharpie 
 
 **STENCIL RESOURCES**
 
+- Email us at DisruptivelyUseful@gmail.com
 - [We have added .svg files to this repo for lasercutting](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files)
 - If you do not own a lasercutter you can ask your local makerspace to help
 - You can also use a custom online lasercutting service like [Ponoko.](https://www.ponoko.com/)
