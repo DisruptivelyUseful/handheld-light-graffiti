@@ -18,7 +18,7 @@ Please watch this [tutorial video first](http://www.disruptivelyuseful.org/)
 
 Really all you need is:
 
-- [a fairly powerful LED flashlight](https://www.amazon.com/HEHEMM-Flashlight-Basement-Activities-flashlight/dp/B01LYNAAZP) (if that is out of stock please use [this](https://www.amazon.com/HEHEMM-Super-bright-Lumens-Flashlight-Controlled/dp/B01LX7WXYX/ref=psdc_2445457011_t4_B01LYNAAZP) or [this](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79). We will try hard to update with what works regularly.)
+- [a fairly powerful LED flashlight](https://www.amazon.com/Supfire-Tactical-Flashlight-Water-proof-Included/dp/B07FBJBZ25/) (if that is out of stock please use [this](https://www.amazon.com/HEHEMM-Flashlight-Basement-Activities-flashlight/dp/B01LYNAAZP) or [this](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79https://www.amazon.com/HEHEMM-Super-bright-Lumens-Flashlight-Controlled/dp/B01LX7WXYX/ref=psdc_2445457011_t4_B01LYNAAZP). We will try hard to update with what works regularly.)
 - [a lens*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=projection+television+lens&_sacat=0)
 - [a stencil*](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files)
 - [a way to couple it all](https://www.amazon.com/Fernco-P1056-415-Flexible-Coupling-4-Inch/dp/B000I1AVCS/ref=sr_1_29?crid=25XW03K529JES&dchild=1&keywords=fernco+coupling+1+1%2F2&qid=1591568700&sprefix=fernco%2Caps%2C223&sr=8-29)
@@ -41,6 +41,8 @@ In this build, we used an “UltraFire C8 1000 lumen ‘tactical’ flashlight�
 
 Speaking of batteries, the flashlights that use rechargeable lithium “18650” style batteries are a great option, because 6-8 useable 18650 cells can be recovered from old laptop batteries, and a single 18650 can power one of these flashlights for 4-7 hours. It’s ok if it uses regular batteries too.
 
+You will probably want extra batteries on you to last the night, so having a battery charger and extra batteries is a great investment. 
+
 It doesn’t matter so much which brand of flashlight you use, but we learned the hard way that some LED flashlights use a parabolic reflector to focus the light, and some use a plastic lens. Both work fine for use as a flashlight, but for use as a projector. The ones with parabolic reflectors work WAY better, because they hold the stencil much further away from the hot LED, and because they don’t complicate the optics. 
 
 The ones with reflectors look like this:
@@ -51,11 +53,11 @@ Not this:
 
 ![](images/plasticlens.jpg)
 
-The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting, designed for ABS pipe, which made coupling it to the lens easy. The closest flashlight to what we used that we could find currently available on Amazon is [this one](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79), which appears to be identical but is from a different manufacturer.
+The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting, designed for ABS pipe, which made coupling it to the lens easy. The closest flashlight to what we used that we could find currently available on Amazon is [this one](https://www.amazon.com/Supfire-Tactical-Flashlight-Water-proof-Included/dp/B07FBJBZ25/), which is basically identical but is from a different manufacturer.
 
 **FLASHLIGHT RESOURCES:**
 
-- [Flashlight from the video](https://www.amazon.com/HEHEMM-Flashlight-Basement-Activities-flashlight/dp/B01LYNAAZP) (if that is out of stock please use [this](https://www.amazon.com/HEHEMM-Super-bright-Lumens-Flashlight-Controlled/dp/B01LX7WXYX/ref=psdc_2445457011_t4_B01LYNAAZP) or [this](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79). We will try hard to update with what works regularly.)
+- [Flashlight we recommend](https://www.amazon.com/Supfire-Tactical-Flashlight-Water-proof-Included/dp/B07FBJBZ25/) (if that is out of stock please use [this](https://www.amazon.com/HEHEMM-Flashlight-Basement-Activities-flashlight/dp/B01LYNAAZP) or [this](https://www.amazon.com/LED-Tactical-Flashlight-Emergency-Torch/dp/B016449PHY/ref=sr_1_79?dchild=1&keywords=ultrafire+c8+18650+flashlight&qid=1591563889&sr=8-79https://www.amazon.com/HEHEMM-Super-bright-Lumens-Flashlight-Controlled/dp/B01LX7WXYX/ref=psdc_2445457011_t4_B01LYNAAZP). We will try hard to update with what works regularly.)
 
 - If you have the funds, you can buy a [professional gobo projector](https://www.google.com/search?q=gobo+projector&rlz=1C5CHFA_enUS839US839&sxsrf=ALeKk02kNfq3QnQ5u8XuZQiBq0yiBY5QMg:1591572177599&source=lnms&tbm=shop&sa=X&ved=2ahUKEwiPuJ6y7PDpAhUCvZ4KHeW4CuEQ_AUoAXoECAsQAw&biw=1280&bih=596)
 
