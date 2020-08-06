@@ -4,7 +4,7 @@
 
 ![](images/justicecenter2.jpeg)
 
-**Notes about this repository**: We have provided .svg files for laser cutting stencils here in the correct size for the flashlight that we link to and used in the build in the tutorial video. You may need to resize the stencil for your flashlight if it is a different size. 
+**Notes about this repository**: To help with creating stencils for your projector, we have provided both .pdf files for [printing transparencies](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/transparency-stencil-files) and .svg files for [laser cutting acrylic or wood stencils](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/lasercut-stencil-files) in the correct size for the flashlight that we link to in this tutorial. You may need to resize the stencils for your flashlight if it is a different size. 
 
 # Handheld Light Graffiti Projector Tutorial
 
@@ -68,26 +68,29 @@ The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting
 
 **STENCIL TIPS:**
 
-This style of projection is called “gobo” projection. “Gobo” stands for “Goes before optics” because putting a stencil between a light and a lens projects a crisp, focused image. A stencil used for projection like this is sometimes referred to as [“a gobo”.](https://en.wikipedia.org/wiki/Gobo_(lighting))
+This style of projection is called “gobo” projection. “Gobo” stands for “Goes before optics” because putting a stencil between a light and a lens projects a crisp, focused image. A stencil used for projection like this is sometimes referred to as [“a gobo”.](https://en.wikipedia.org/wiki/Gobo_(lighting)) and can be made of clear acetate sheet, acrylic, wood or metal (depending on how hot your light source gets)
 
-You’ll need to be able to make stencils to throw your own images. We used laser cut 1/16th” black acrylic, cut with a [Glowforge](https://glowforge.com/) basic 40W laser cutter, which worked well. We made a round stencil at 1.61" diameter because that is what fits inside the head of the flashlight we use. We have provided these .svg files [in this repo](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files) for you to use if you want to. If you don't have a laser cutter you could ask your local makerspace, or use an online lasercutting service like [Ponoko.](https://www.ponoko.com/)
+You’ll need to be able to make stencils to throw your own images. We used a Glowforge(https://glowforge.com/) basic 40W laser cutter to cut thin (1/16th”) black acrylic for our stencils, which worked well with the 1000 lumin flashlight we suggest. We made a round stencil at 1.61" diameter because that is what fits inside the head of the flashlight we use. We have provided these .svg files [in this repo](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files) for you to use. If you don't have a laser cutter you could ask your local makerspace, or use an online lasercutting service like [Ponoko.](https://www.ponoko.com/). 
 
-If you don’t have access to a laser cutter you can make your own stencils using different materials, like thin plastic, stiff card stock, or even a tin can and an exacto knife.
+Another, potentially more accessible way of creating stencils is by [printing transparencies](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/transparency-stencil-files), which we have also provided files for.
+
+If you don’t have access to a laser cutter or printer you can experiement with making your own stencils using different materials, like thin plastic, stiff card stock, or even a tin can and an exacto knife.
 
 We are also offering (at this time) to lasercut an acrylic stencil, for free, for anyone who is trying to make their own projector. We know it can be difficult to get this part done, and we would like to help you. Please email us at DisruptivelyUseful@gmail.com
 
 Cut out stencils work best for larger words and simple phrases. For smaller/more text, we found that laser engraving an image onto CLEAR acrylic and then spray painting the engraved area black before peeling off the protective paper worked surprisingly well, actually. It may be worth playing around with that approach if you DO have access to a laser cutter.
 
-You can also make transparent stencils with a laser/inkjet printer or a sharpie and some transparency sheets. You could also 3D print a stencil, or even just paint an image onto the protective lens that comes with the flashlight. Get creative! and let us know what works well for you!
+Get creative! And let us know what works well for you!
 
 **SAFETY TIP**: Test your stencil out before-hand and make sure it isn’t getting too hot!
 
 **STENCIL RESOURCES**
 
-- Email us at DisruptivelyUseful@gmail.com
 - [We have added .svg files to this repo for lasercutting](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files)
+- [We have added .pdf files to this repo for printing transparencies](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/transparency-stencil-files)
 - If you do not own a lasercutter you can ask your local makerspace to help
 - You can also use a custom online lasercutting service like [Ponoko.](https://www.ponoko.com/)
+- Or, email us at DisruptivelyUseful@gmail.com and we'll mail you a few free stencils. 
 - Here’s a tutorial on a [low-tech DIY metal gobo](https://www.instructables.com/id/Home-made-Gobos/) from a tin can/pie plate
 - You could draw on a sheet of transparent plastic with a sharpie
 - You could cut a stencil out of cardboard with a razor blade, and add tinfoil if it’s getting hot
