@@ -29,7 +29,7 @@ The items linked here are the ones we used in the tutorial video, if you want to
 
 *Important details on the lens and stencil are available slightly down this page, in their sections.
 
-What you are doing in this project, essentially, is sending a flashlight beam farther and more sharply with a lens then it can do on it’s own. Then you are adding a message with the stencil. The coupling is all about finding the focus, the spacing between the flashlight and lens. There could be a thousand ways to do this build and we try to talk about that in this tutorial. We also give you specifics on what has worked for us both in the linked list above, the video, and in the information below.
+What you are doing in this project, essentially, is sending a flashlight beam farther and more sharply with a lens then it can do on it’s own. Then you are adding a message with the stencil. The coupling is all about finding the focus, the spacing between the flashlight and lens. There could be a thousand creative ways to do this build and we try to talk about that in this tutorial. We also give you specifics on what has worked for us in the linked list above, the video, and in the information below.
 
 Please watch the video for an overview of how things fit together.
 
@@ -39,15 +39,15 @@ Please watch the video for an overview of how things fit together.
 
 Any light source can work, but LED flashlights are the cheapest, smallest, safest option as they don’t produce a lot of heat that could melt or ignite your stencil.
 
-In this build, we used an “UltraFire C8 1000 lumen ‘tactical’ flashlight”, which we got on Amazon a few years ago for around $20. The brighter the better, but a 1000 lumen rated flashlight with a fresh battery can throw a remarkably large and clear image in reasonable darkness. We have found essentially the same flashlight from a different supplier since then, and link to it at the bottom of this section.
+In this build, we used a 1000 lumin "tactical" flashlight that we got on Amazon a few years ago for around $20. The brighter the better, but a 1000 lumen rated flashlight with a fresh 18650 battery can throw a remarkably large and clear image in reasonable darkness. We have found essentially the same flashlight from a different supplier since then, and link to flashlights we know work at the bottom of this section.
 
 Speaking of batteries, the flashlights that use rechargeable lithium “18650” style batteries are a great option, because 6-8 useable 18650 cells can be recovered from old laptop batteries, and a single 18650 can power one of these flashlights for 4-7 hours. It’s ok if it uses regular batteries too.
 
-You will probably want extra batteries on you to last the night, so having a battery charger and extra batteries is a great investment. 
+You will probably want extra batteries on you to last the night, so having a 18650 battery charger and extra reachargeable 18650 batteries is a really great investment. These are easily found online.
 
-It doesn’t matter so much which brand of flashlight you use, but we learned the hard way that some LED flashlights use a parabolic reflector to focus the light, and some use a plastic lens. Both work fine for use as a flashlight, but for use as a projector. The ones with parabolic reflectors work WAY better, because they hold the stencil much further away from the hot LED, and because they don’t complicate the optics. 
+It doesn’t matter so much which brand of flashlight you use, but we learned the hard way that some LED flashlights use a parabolic reflector to focus the light, and some use a plastic lens. Both work fine for use as a flashlight, but for use as a projector the ones with parabolic reflectors work WAY better, because they hold the stencil much further away from the hot LED and because they don’t complicate the optics. 
 
-The ones with reflectors look like this:
+The ones with reflectors (good!) look like this:
 
 ![](images/reflector.jpg)
 
@@ -55,7 +55,7 @@ Not this:
 
 ![](images/plasticlens.jpg)
 
-The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting, designed for ABS pipe, which made coupling it to the lens easy. The closest flashlight to what we used that we could find currently available on Amazon is [this one](https://www.amazon.com/Supfire-Tactical-Flashlight-Water-proof-Included/dp/B07FBJBZ25/), which is basically identical but is from a different manufacturer.
+The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting, designed for ABS pipe, which made coupling it to the lens easy. The flashlight we currently suggest is [this one](https://www.amazon.com/Supfire-Tactical-Flashlight-Water-proof-Included/dp/B07FBJBZ25/), which comes with an extra 18650 battery and battery charger.
 
 **FLASHLIGHT RESOURCES:**
 
@@ -122,7 +122,7 @@ The lens assembly has a stepped shape that makes it easy to find a step with the
 
 ### CAMERA LENSES:
 
-In our understanding other optics work we well, though we have not played with other lenses much so far. Old 35 mm camera lenses can usually be found at thrift stores for $5-15, and they have very high quality optics, and many of the bigger telephoto-style ones will let you make very fine adjustments to the focus and size/throw of your image.
+In our understanding other optics (lenses) can work well, though we have not played with other lenses much so far. Old 35 mm camera lenses can usually be found at thrift stores for $5-15, and they have very high quality optics, and many of the bigger telephoto-style ones will let you make very fine adjustments to the focus and size/throw of your image.
 
 The now-defunct [GuerillaBeam project](https://streettoolbox.fandom.com/wiki/Guerilla_Beam) used a 3D printed slide holder to couple 35MM camera lenses to LED flashlights, which is how we know they work. If you use a camera lens, you’ll have to play around with the spacing between the light, stencil, and lens to find the sweet spot, and then design your coupler accordingly.
 
