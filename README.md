@@ -166,7 +166,7 @@ We are pretty sure you could use materials such as cardboard, tape, hot glue, fo
 
 - [Overpass Light Brigade](https://www.facebook.com/OverpassLightBrigade/)
 
-- You can follow us, the creators, at [The Magic Tool Bus.](http://www.magictoolbus.com/). If you know of more resources for this tutorial, please let us know.
+- You can follow us, the creators, if you would like. Here's Claire's [social links and other open source resources](https://linktr.ee/ClaireDanielleCassidy), and here's Sam's [website.](http://www.samsmith.work/) 
 
 ### “This technology is very powerful, “spectacular” in nature, and often under the control of one person or a small group who could potentially manipulate a large and impressionable crowd. This power needs to be kept accountable to the broader group, and should be wielded with great care.” 
 ### – [Beautiful Rising on Guerrilla Projection](https://beautifulrising.org/tool/guerrilla-projection)
