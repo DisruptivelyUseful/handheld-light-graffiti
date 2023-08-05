@@ -1,7 +1,5 @@
 # Handheld Light Graffiti Projector Tutorial
 
-[<img src="images/projectorbody.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U](https://vimeo.com/851967606?share=copy) "Graffiti Projector")
-
 ![](images/projectorbody.jpg)
 
 ![](images/justicecenter2.jpeg)
@@ -18,7 +16,7 @@ PLEASE NOTE: We have worked hard to give details for the specific build we know 
 
 This project is also completely open source, meaning that you can make, share, use, alter, and yes, even sell this design or any similar design, with no credit or attribution needed. This information is yours. 
 
-Please watch this [tutorial video first](http://www.disruptivelyuseful.org/)
+Please watch this [tutorial video first]([http://www.disruptivelyuseful.org/](https://vimeo.com/851967606?share=copy))
 
 Really all you need is:
 
