@@ -1,5 +1,7 @@
 # Handheld Light Graffiti Projector Tutorial
 
+[<img src="images/projectorbody.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U](https://vimeo.com/851967606?share=copy) "Graffiti Projector")
+
 ![](images/projectorbody.jpg)
 
 ![](images/justicecenter2.jpeg)
