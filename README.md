@@ -10,7 +10,7 @@ Hi! This tutorial is here to help you build a low-profile handheld light project
 
 If you follow our suggestions of what to buy and use the links we provide here, this project should cost around $45-60 in materials (cheaper or pricier if you find parts on your own).
 
-We use links to Amazon and Ebay in this tutorial. You are more then welcome to source your parts from elsewhere, and we encourage you to do what feels good.
+We use links to Amazon and Ebay in this tutorial, among other places. You are more then welcome to source your parts from elsewhere, and we encourage you to do what feels good.
 
 We have worked hard to give details for the specific build we know works, but hope that people will also try to design similar, not exact copies. This is because A) The exact parts needed for this build may be difficult to source in the future and the links here might break, though similar parts should always be available and B) Alternate builds could quite possibly have advantages of their own, such as lowering cost or improving projection throw.
 
@@ -22,7 +22,7 @@ This project is also completely open source, meaning that you can make, share, u
 
 - a fairly powerful LED flashlight*.
 - [a lens*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=rear+projection+television+lens&_sacat=0&LH_TitleDesc=0&_odkw=projection+television+lens&_osacat=0)
-- [a stencil*](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files)
+- [a stencil*](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/lasercut-stencil-files)
 - [a way to couple it all*](https://www.amazon.com/Fernco-P1056-415-Flexible-Coupling-4-Inch/dp/B000I1AVCS/ref=sr_1_29?crid=25XW03K529JES&dchild=1&keywords=fernco+coupling+1+1%2F2&qid=1591568700&sprefix=fernco%2Caps%2C223&sr=8-29)
 
 *Important details on each of these items are available down this page, in their tutorial sections.
@@ -63,13 +63,13 @@ Notice the lack of shiny interior, and the convex, bubble like clear plastic dom
 
 ![](images/plasticlens.jpg)
 
-The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting, designed for ABS pipe, which made coupling it to the lens easy. You should **CHECK** the diamater of the head of your flashlight, and make sure it will fit into the smaller end of your plumbing coupler. The flashlight we currently suggest is [this one](https://www.amazon.com/Supfire-Tactical-Flashlight-Water-proof-Included/dp/B07FBJBZ25/), which comes with an extra 18650 battery and battery charger. 
+The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting, designed for ABS pipe, which made coupling it to the lens easy. You should **CHECK** the diamater of the head of your flashlight, and make sure it will fit into the smaller end of your plumbing coupler. The flashlight we currently suggest is [this one](https://www.amazon.com/Supfire-Tactical-Flashlight-Water-proof-Included/dp/B07FBJBZ25/), which comes with an extra 18650 battery and battery charger. If your flashlight does not fit into your coupler, try wrapping several layers of fabric, tape or other material around the flashlight until it fits loosely enough to move, but tightly enough to stay in place. We found that long, thin strips of velcro worked very well for this.
 
 **FLASHLIGHT RESOURCES:**
 
-- Try different flashlights you already have access to!
+- Try different flashlights you already have access to. Check thrift stores! Remember, brighter is better.
 
-- If you have the funds, you can also buy a [professional gobo projector](https://www.google.com/search?q=gobo+projector&rlz=1C5CHFA_enUS839US839&sxsrf=ALeKk02kNfq3QnQ5u8XuZQiBq0yiBY5QMg:1591572177599&source=lnms&tbm=shop&sa=X&ved=2ahUKEwiPuJ6y7PDpAhUCvZ4KHeW4CuEQ_AUoAXoECAsQAw&biw=1280&bih=596)
+- If you have the funds, you can also just buy a [professional gobo projector](https://www.google.com/search?q=gobo+projector&rlz=1C5CHFA_enUS839US839&sxsrf=ALeKk02kNfq3QnQ5u8XuZQiBq0yiBY5QMg:1591572177599&source=lnms&tbm=shop&sa=X&ved=2ahUKEwiPuJ6y7PDpAhUCvZ4KHeW4CuEQ_AUoAXoECAsQAw&biw=1280&bih=596)
 
 
 ## Stencil Tips and Resources:
@@ -78,17 +78,15 @@ The head of the flashlight we used fits perfectly into a 1.5” plumbing fitting
 
 This style of projection is called “gobo” projection. “Gobo” stands for “Goes before optics” because putting a stencil between a light and a lens projects a crisp, focused image. A stencil used for projection like this is sometimes referred to as [“a gobo”.](https://en.wikipedia.org/wiki/Gobo_(lighting)) and can be made of clear acetate sheet, acrylic, wood or metal (depending on how hot your light source gets)
 
-You’ll need to be able to make stencils to throw your own images. We used a Glowforge(https://glowforge.com/) basic 40W laser cutter to cut thin (1/16th”) black acrylic for our stencils, which worked well with the style of LED flashlight we suggest. We made a round stencil at 1.61" diameter because that is what fit inside the head of the flashlight we used. We have provided these .svg files [in this repo](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files) for you to use. They may (proabably) need to be resized to fit your flashlight. If you don't have a laser cutter you could ask your local makerspace for access to one, or use an online lasercutting service like [Ponoko.](https://www.ponoko.com/). 
+You’ll need to be able to make stencils to throw your own images. We used a Glowforge(https://glowforge.com/) basic 40W laser cutter to cut thin (1/16th”) black acrylic for our stencils, which worked well with the style of LED flashlight we suggest. We made a round stencil at 1.61" diameter because that is what fit inside the head of the flashlight we used. We have provided these .svg files [in this repo](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/stencil-svg-files) for you to use. They may (probably) need to be resized to fit your flashlight. If you don't have a laser cutter you could ask your local makerspace for access to one, or use an online lasercutting service like [Ponoko.](https://www.ponoko.com/). 
 
 Another, potentially more accessible way of creating stencils is by [printing transparencies](https://github.com/DisruptivelyUseful/handheld-light-graffiti/tree/master/transparency-stencil-files), which we have also provided files for. Keep in mind, you might need to resize them to fit your flashlight.
 
 If you don’t have access to a laser cutter or printer you can experiement with making your own stencils using different materials, like thin plastic, stiff card stock, or even a tin can and an exacto knife.
 
-We are also offering (at this time) to lasercut an acrylic stencil, for free, for anyone who is trying to make their own projector. We know it can be difficult to get this part done, and we would like to help you. Please email the diameter of stencil you need, and what you want it to say, to Claire at clacassidy@gmail.com.
-
 Cut-out stencils work best for larger words and simple phrases. For smaller/more text/detailed images, we found that laser engraving an image onto CLEAR or transparent acrylic of any light color, and then spray painting the engraved area black before peeling off the protective paper, worked surprisingly well. It may be worth playing around with that approach if you DO have access to a laser cutter.
 
-Get creative! And let us know what works well for you!
+Get creative! Maybe let us know what works well for you!
 
 **SAFETY TIP**: Test your stencil out before-hand and make sure it isn’t getting too hot for the material you are using! This is particularly important if you are using PAPER products to make your stencil.
 
