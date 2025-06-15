@@ -6,6 +6,8 @@
 
 ### Some Context and How to Use This Repo
 
+**Please watch this [tutorial video first.](https://vimeo.com/851967606)**
+
 Hi! This tutorial is here to help you build a low-profile handheld light projector from relatively accessible hardware store parts. If you scroll down this page a bit you will find TONS of additional detail on how to build this projector, including a parts list, links and even a tutorial video. Most of the information about this project is located on this page (in this README.md file). The other files in this repo are mostly downloadable files to help you lasercut or print stencils for your projector. 
 
 If you follow our suggestions of what to buy and use the links we provide here, this project should cost around $45-60 in materials (cheaper or pricier if you find parts on your own).
