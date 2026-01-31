@@ -1,6 +1,6 @@
 # DIY Handheld Light Graffiti Projector Tutorial
 
-![](images/projectorbodysmaller.png)
+<img src="https://github.com/DisruptivelyUseful/handheld-light-graffiti/blob/master/images/projectorbodysmaller.png" width="200" title="Projector Body" alt="Image of a hand holding the finished graffiti projector with a QR code on it"/>
 
 ![](images/justicecenter2.jpeg)
 
