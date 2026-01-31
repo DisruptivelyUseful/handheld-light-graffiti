@@ -1,6 +1,6 @@
 # DIY Handheld Light Graffiti Projector Tutorial
 
-![](images/projectorbody.jpg)
+![](images/projectorbodysmaller.png)
 
 ![](images/justicecenter2.jpeg)
 
