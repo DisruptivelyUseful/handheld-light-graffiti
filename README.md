@@ -1,6 +1,8 @@
 # DIY Handheld Light Graffiti Projector Tutorial
 
-<img src="https://github.com/DisruptivelyUseful/handheld-light-graffiti/blob/master/images/projectorbodysmaller.png" width="200" title="Projector Body" alt="Image of a hand holding the finished graffiti projector with a QR code on it"/>
+<img src="https://github.com/DisruptivelyUseful/handheld-light-graffiti/blob/master/images/projectorbodysmaller.png" width="500" title="Projector Body" alt="Image of a hand holding the finished graffiti projector with a QR code on it"/>
+
+<img src="https://github.com/DisruptivelyUseful/handheld-light-graffiti/blob/master/images/meltice.jpg" width="500" title="Melt Ice" alt="Image of a person holding the projector and it is displaying a stencil that says melt ice on the wall"/>
 
 ![](images/justicecenter2.jpeg)
 
